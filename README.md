@@ -28,7 +28,6 @@ The project also includes a 15-day sales forecast based on historical sales data
 Helps stakeholders monitor performance, identify growth areas, and plan using data-driven insights.
 
 
-👤 Author
 
 Nitin Singh
 
