@@ -11,22 +11,23 @@ The project also includes a 15-day sales forecast based on historical sales data
 
 
 🚀 Key Features
-
-KPI overview (Sales, Profit, Quantity)
-
-Year-on-Year Sales & Profit trends
-
-Sales by Region, Segment & Category
-
-Sub-Category & Payment Mode insights
-
-15-Day Sales Forecast chart
+- KPI overview (Sales, Profit, Quantity)
+/Year-on-Year Sales & Profit trends
+/Sales by Region, Segment & Category
+/Sub-Category & Payment Mode insights
+/15-Day Sales Forecast chart
 
 
 🛠 Tools
 - Power BI
 /Data Modeling & DAX
 /Time-Series Forecasting
+
+🎯 Outcome
+
+Helps stakeholders monitor performance, identify growth areas, and plan using data-driven insights.
+
+
 
 
 
